@@ -44,6 +44,9 @@ Social features such as liking, commenting on reviews, and following other users
 Users can build connections within the platform, creating a network around shared interests in products.
 Vendor Features:
 
+
+![Screenshot 2024-06-22 234712](https://github.com/Sahilkotnala/Product-Managment-Website/assets/77192880/fcd902c3-b868-453b-84be-6dd631fca0d4)
+
 # Vendor Dashboard:
 
 Vendors have access to a dedicated dashboard for managing their products and interactions.
